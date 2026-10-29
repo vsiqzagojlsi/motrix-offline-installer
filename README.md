@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Download+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Motrix Free Installer** — Motrix is a free, open-source full-featured download manager for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Motrix Free Installer** — Motrix is a free, open-source download manager supporting HTTP, FTP, BitTorrent, and Magnet links. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Motrix
 
-Motrix is a free, open-source full-featured download manager for Windows, macOS, and Linux. Built on aria2, Motrix supports HTTP, FTP, BitTorrent, and Magnet downloads with up to 10 connections per task for maximum speed. With a clean, modern Electron-based interface and cross-platform support, Motrix provides a polished alternative to command-line aria2 usage.
+Motrix is a free, open-source download manager supporting HTTP, FTP, BitTorrent, and Magnet links. Built on the aria2 engine with a clean Electron-based interface, it supports up to 10 concurrent tasks, batch downloads, and browser extensions.
 
 ---
 
 ## ❌ Problem: Motrix is hard to access
 
-- **Electron-Based** — Higher resource usage than lightweight download managers
-- **Torrent Client** — BitTorrent downloads require understanding of privacy and legal implications
-- **Development Status** — Primary developer has reduced maintenance; community maintains it
-- **Internet Dependency** — Cloud acceleration features require internet for third-party servers
+- **Discontinued Development** — Project maintainer has ceased active development
+- **Electron Overhead** — Higher memory usage than native download managers
+- **Limited Advanced Features** — Missing scheduler and bandwidth throttling found in premium tools
+- **No Mobile Sync** — Cannot sync download queues with mobile devices
 
 ---
 
@@ -121,7 +121,7 @@ Motrix is a free, open-source full-featured download manager for Windows, macOS,
 
 ---
 
-**Motrix Free Installer** — Motrix is a free, open-source full-featured download manager for Windows, macOS, and Linux. Install without internet connection today!
+**Motrix Free Installer** — Motrix is a free, open-source download manager supporting HTTP, FTP, BitTorrent, and Magnet links. Install without internet connection today!
 
 <div align="center">
 
